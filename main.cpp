@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    guitar
+//  action 1:    strum the guitar
+guitar.strum();
+//  action 2:    tweak the guitar
+guitar.tweak();
+//  action 3:    tune the guitar
+guitar.tune();
+//  2)          
+//  Noun:    tree
+//  action 1:    trim the tree
+tree.trim();
+//  action 2:    climb the tree
+tree.climb();
+//  action 3:    pour water on tree
+tree.pourWater();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    car
+//  action 1:    drive car
+car.drive();
+//  action 2:    repair car
+car.repair();
+//  action 3:    wreck the car
+car.wreck();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    keyboard
+//  action 1:    press key on the keyboard
+keyboard.pressKey();
+//  action 2:    clean keyboard
+keyboard.clean();
+//  action 3:    smash keyboard
+keyboard.smash();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    glasses
+//  action 1:    wear glasses
+glasses.wear();
+//  action 2:    prescribe glasses
+glasses.prescribe();
+//  action 3:    fold glasses
+glasses.fold();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    cat
+//  action 1:    pet the cat
+cat.pet();
+//  action 2:    feed the cat
+cat.feed();
+//  action 3:    name the cat
+cat.name();
+//  7)    
+//  Noun:     potato
+//  action 1:    wash the potato
+potato.wash();
+//  action 2:    slice potato
+potato.slice();
+//  action 3:    cook potato
+potato.cook();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    Bass  
+//  action 1:    play the bass
+bass.play();
+//  action 2:    tune the bass
+bass.tune();
+//  action 3:    drop the bass
+bass.drop();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    bird
+//  action 1:    the bird bathes
+bird.bathes();
+//  action 2:    bird eats
+bird.eats();
+//  action 3:    the bird flys
+bird.flys();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    wheel
+//  action 1:    the wheel rotates
+wheel.rotates();
+//  action 2:    turn the wheel
+wheel.turn();
+//  action 3:    inflated the wheel
+wheel.inflate();
 
 
 #endif
